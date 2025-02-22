@@ -1,0 +1,14 @@
+/home/angelro30/Documentos/clases-de-c-sharp/02/obj/Debug/net8.0/02.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelro30/Documentos/clases-de-c-sharp/02/obj/Debug/net8.0/02.AssemblyInfoInputs.cache
+/home/angelro30/Documentos/clases-de-c-sharp/02/obj/Debug/net8.0/02.AssemblyInfo.cs
+/home/angelro30/Documentos/clases-de-c-sharp/02/obj/Debug/net8.0/02.csproj.CoreCompileInputs.cache
+/home/angelro30/Documentos/clases-de-c-sharp/02/bin/Debug/net8.0/02
+/home/angelro30/Documentos/clases-de-c-sharp/02/bin/Debug/net8.0/02.deps.json
+/home/angelro30/Documentos/clases-de-c-sharp/02/bin/Debug/net8.0/02.runtimeconfig.json
+/home/angelro30/Documentos/clases-de-c-sharp/02/bin/Debug/net8.0/02.dll
+/home/angelro30/Documentos/clases-de-c-sharp/02/bin/Debug/net8.0/02.pdb
+/home/angelro30/Documentos/clases-de-c-sharp/02/obj/Debug/net8.0/02.dll
+/home/angelro30/Documentos/clases-de-c-sharp/02/obj/Debug/net8.0/refint/02.dll
+/home/angelro30/Documentos/clases-de-c-sharp/02/obj/Debug/net8.0/02.pdb
+/home/angelro30/Documentos/clases-de-c-sharp/02/obj/Debug/net8.0/02.genruntimeconfig.cache
+/home/angelro30/Documentos/clases-de-c-sharp/02/obj/Debug/net8.0/ref/02.dll

@@ -1,0 +1,14 @@
+/home/angelro30/Documentos/clases-de-c-sharp/Primer/bin/Debug/net8.0/Primer
+/home/angelro30/Documentos/clases-de-c-sharp/Primer/bin/Debug/net8.0/Primer.deps.json
+/home/angelro30/Documentos/clases-de-c-sharp/Primer/bin/Debug/net8.0/Primer.runtimeconfig.json
+/home/angelro30/Documentos/clases-de-c-sharp/Primer/bin/Debug/net8.0/Primer.dll
+/home/angelro30/Documentos/clases-de-c-sharp/Primer/bin/Debug/net8.0/Primer.pdb
+/home/angelro30/Documentos/clases-de-c-sharp/Primer/obj/Debug/net8.0/Primer.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelro30/Documentos/clases-de-c-sharp/Primer/obj/Debug/net8.0/Primer.AssemblyInfoInputs.cache
+/home/angelro30/Documentos/clases-de-c-sharp/Primer/obj/Debug/net8.0/Primer.AssemblyInfo.cs
+/home/angelro30/Documentos/clases-de-c-sharp/Primer/obj/Debug/net8.0/Primer.csproj.CoreCompileInputs.cache
+/home/angelro30/Documentos/clases-de-c-sharp/Primer/obj/Debug/net8.0/Primer.dll
+/home/angelro30/Documentos/clases-de-c-sharp/Primer/obj/Debug/net8.0/refint/Primer.dll
+/home/angelro30/Documentos/clases-de-c-sharp/Primer/obj/Debug/net8.0/Primer.pdb
+/home/angelro30/Documentos/clases-de-c-sharp/Primer/obj/Debug/net8.0/Primer.genruntimeconfig.cache
+/home/angelro30/Documentos/clases-de-c-sharp/Primer/obj/Debug/net8.0/ref/Primer.dll
